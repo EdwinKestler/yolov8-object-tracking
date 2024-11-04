@@ -1,0 +1,10 @@
+#this file is the git ignore file include all large model files and directories and laso env files and direcories
+
+*.pt
+*.pth
+.env
+__pycache__
+*.pyc
+*.mp4
+*.avi
+*.mov
